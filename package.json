@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "ng serve",
-    "build": "./node_modules/@angular/cli/bin/ng.js build",
-    "test": "ng test"
+    "start": "nx serve",
+    "build": "nx build",
+    "test": "nx test"
   },
   "private": true,
   "dependencies": {
